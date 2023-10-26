@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/bg.jfif"/>
+<img src="https://github.com/pkiluke/ransomware-article/raw/master/images/bg.jfif"/>
 </div>
 
 # Ransomware
